@@ -1,5 +1,3 @@
-# Save the English README content to a markdown file
-readme_content = """
 # ☕ Coffee Quality Clustering with PCA and t-SNE
 
 This project applies **dimensionality reduction techniques (PCA + t-SNE)** and **unsupervised clustering** to uncover patterns in physical and sensory data from coffee samples. The results reveal two main groups with distinct characteristics, interpreted as **commercial-grade** and **high-quality** coffees.
@@ -97,4 +95,4 @@ Likely **washed (wet)** processing.
 
 ## 🧠 Conclusion  
 
-This project demonstrates how data science techniques can reveal hidden patterns and drive actionable decisions in the coffee industry. Combining dimensionality reduction, clustering, and profile analysis provides practical insights—from post-harvest improvements to specialty coffee market strategies. """
+This project demonstrates how data science techniques can reveal hidden patterns and drive actionable decisions in the coffee industry. Combining dimensionality reduction, clustering, and profile analysis provides practical insights—from post-harvest improvements to specialty coffee market strategies.
