@@ -1,0 +1,19 @@
+[project]
+name = "coffee-quality-clustering-with-pca-t-sne"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Igor Ambrozini",email = "igor@densyx.com.br"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "coffee_quality_clustering_with_pca_t_sne", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
