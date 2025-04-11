@@ -7,8 +7,10 @@ This project applies **dimensionality reduction techniques (PCA + t-SNE)** and *
 - **Dimensionality Reduction:**
   - `PCA` for variance retention and pre-processing
   - `t-SNE` for 2D visualization with local structure preservation
+    
 - **Clustering:**
   - `KMeans` with optimal `k=2` based on elbow and silhouette analysis
+    
 - **Cluster Profiling:**
   - Z-score standardization
   - Interpretation based on quality-impacting features
@@ -26,8 +28,10 @@ This project applies **dimensionality reduction techniques (PCA + t-SNE)** and *
 | **Visual Defects**   | 5–15 defects per 300g                        | Compromised visual appeal             |
 
 **📌 Technical Profile:**  
-Likely processed using dry/natural or quick-dry methods.  
+- Likely processed using dry/natural or quick-dry methods.  
+
 **⚠️ Risks:** Sensory imbalance.  
+
 **✅ Recommendations:**
 - Improve drying to reach ~11% moisture
 - Use manual or electronic sorting to reduce quakers
@@ -45,8 +49,10 @@ Likely processed using dry/natural or quick-dry methods.
 | **Visual Defects**   | Max 3–5 defects per 300g                    | Excellent visual quality              |
 
 **📌 Technical Profile:**  
-Likely **washed (wet)** processing.  
+- Likely **washed (wet)** processing.  
+
 **💪 Strengths:** High process control.  
+
 **🌱 Opportunities:**
 - Market positioning as **single origin**
 - Light roasting to enhance acidity and aroma
