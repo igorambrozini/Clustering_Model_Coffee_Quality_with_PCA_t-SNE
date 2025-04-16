@@ -91,12 +91,17 @@ This project applies **dimensionality reduction techniques (PCA + t-SNE)** and *
 .
 ├── data/
 │   └── coffee_quality_dataset.csv
-├── notebooks/
-│   └── clustering_analysis.ipynb
-├── visuals/
-│   └── cluster_profiles.png
+├── src/
+│   └── coffee_quality_clustering_with_pca_t_sne/
+│        └── __init__.py
+├── tests/
+│   └── __init__.py
+├── .python-version
+├── LICENSE
 ├── README.md
-└── requirements.txt
+├── clustering_analysis.ipynb
+└── poetry.lock
+├── pyproject.toml
 ```
 
 ## 🧠 Conclusion  
