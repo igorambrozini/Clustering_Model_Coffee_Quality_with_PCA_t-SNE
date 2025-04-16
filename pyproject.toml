@@ -3,16 +3,26 @@ name = "coffee-quality-clustering-with-pca-t-sne"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Igor Ambrozini",email = "igor@densyx.com.br"}
+    { name = "Igor Ambrozini", email = "igor@densyx.com.br" }
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11"
 dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "plotly",
+    "scikit-learn",
+    "lightgbm",
+    "scipy",
+    "python-dateutil",
+    "kagglehub",
+    "notebook",
+    "ipykernel"
 ]
 
 [tool.poetry]
-packages = [{include = "coffee_quality_clustering_with_pca_t_sne", from = "src"}]
-
+packages = [{ include = "coffee_quality_clustering_with_pca_t_sne", from = "src" }]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
